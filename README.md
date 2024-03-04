@@ -17,12 +17,21 @@ The OWASP Top 10 is a powerful awareness document for web application security. 
 # Guidelines
 
 [Broken access control](examples/broken-access-control/README.md)
+
 [Injection](examples/injection/README.md)
+
 [Security misconfiguration](examples/security-misconfiguration/README.md)
+
 [XML external entities](examples/xml-external-entities/README.md)
+
 [Broken authentication](examples/broken-authentication/README.md)
+
 [Insecure deserialization](examples/insecure-deserialization/README.md)
+
 [Sensitive data exposure](examples/sensitive-data-exposure/README.md)
+
 [Cross-site scripting](examples/cross-site-scripting/README.md)
+
 [Insufficient logging and monitoring](examples/insufficient-logging-and-monitoring/README.md)
+
 [Using components with known vulnerabilities](examples/using-components-with-known-vulnerabilities/README.md)

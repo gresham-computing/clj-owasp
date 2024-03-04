@@ -1,4 +1,4 @@
-# A5 - Broken access control
+# Broken access control
 Restrictions on what authenticated users are allowed to do are often not properly enforced. Attackers can exploit these flaws to access unauthorized functionality and/or data, such as access other users' accounts, view sensitive files, modify other users’ data, change access rights, etc.
 
 # Example

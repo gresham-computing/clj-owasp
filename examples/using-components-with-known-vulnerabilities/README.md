@@ -1,4 +1,4 @@
-# A9 - Using components with known vulnerabilities
+# Using components with known vulnerabilities
 Components, such as libraries, frameworks, and other software modules, run with the same privileges as the application. If a vulnerable component is exploited, such an attack can facilitate serious data loss or server takeover. Applications and APIs using components with known vulnerabilities may undermine application defenses and enable various attacks and impacts.
 
 # Example

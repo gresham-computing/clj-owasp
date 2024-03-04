@@ -1,5 +1,7 @@
 # Clojue Secure Code Guidelines
 
+# Background Info
+
 Presentation about OWASP Top 10. All the texts from the vulnerabilities were extracted from the official document.
 
 [OWASP TOP 10 DOCUMENT](https://owasp.org/www-project-top-ten/)
